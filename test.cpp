@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <Windows.h>
 
@@ -23,7 +24,7 @@ void PrintAt(SHORT x, SHORT y, const char* str)
 	cout << str;
 }
 
-int main__()
+int main()
 {
 	g_hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
 
@@ -37,4 +38,4 @@ int main__()
 	system("pause");
 
 	return 0;
-}
+}*/
